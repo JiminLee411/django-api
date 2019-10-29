@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework', # restframework 사용
+    'drf_yasg',
     'musics',
 ]
 
